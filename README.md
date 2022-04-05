@@ -40,6 +40,7 @@ visit http://localhost:3000
 
 ## User Manual
 
+- Use Search Bar to add new ticker by entering ticker symbol (press ENTER key)
 - Click the Dollar Icon (Balance) to navigate to Wallet Page
 - Click the Profile Icon to view your current share holdings
 - Click the Logo (Stock Manager App text) to navigate to Home Screen
