@@ -10,6 +10,7 @@
 - React Router DOM
 - TypeScript
 - 💅 Styled-Components
+- Zustand
 
 ---
 
