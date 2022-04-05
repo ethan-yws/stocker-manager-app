@@ -15,7 +15,7 @@
 
 ## Live demo
 
-[Hosted in Netlify](http:com)
+[Hosted in Netlify](https://stock-manager-app-ethan.netlify.app/)
 
 ---
 
