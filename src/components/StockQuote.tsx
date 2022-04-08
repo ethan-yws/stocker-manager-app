@@ -69,9 +69,7 @@ export const StockQuote: React.FC<IStockQuote> = ({ quoteData }) => {
       </QuoteEntry>
       <QuoteEntry>
         <span>% CHANGE</span>
-        {percentChange !== undefined
-          ? (percentChange * 100).toFixed().toString() + '%'
-          : ''}
+        {percentChange !== undefined ? percentChange.toString() + '%' : ''}
       </QuoteEntry>
       <QuoteEntry>
         <span>LAST PRICE</span>
